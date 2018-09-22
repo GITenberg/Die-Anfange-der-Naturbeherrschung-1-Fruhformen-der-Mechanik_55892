@@ -1,16 +1,21 @@
 _repo: Die-Anfange-der-Naturbeherrschung-1-Fruhformen-der-Mechanik_55892
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Wilhelm, Max
     gutenberg_agent_id: '48567'
     url: http://www.gutenberg.org/2009/agents/48567
+covers:
+- cover_type: archival
+  image_path: 55892-h/images/cover.jpg
 creator:
   author:
     agent_name: Weule, Karl
     gutenberg_agent_id: '48566'
     url: http://www.gutenberg.org/2009/agents/48566
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55892#Die-Anfange-der-Naturbeherrschung-1-Fruhformen-der-Mechanik
 gutenberg_issued: '2017-11-05'
 gutenberg_type: Text
 identifiers:
